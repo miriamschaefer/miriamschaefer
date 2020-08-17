@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 It's Miriam, nice to meet you.
+
+I'm a photographer turned into a front-end developer. In less than three months I've been able to create my first SPAs with React, Javascript Vanilla and SASS and HTML and I honestly think that's quite impressive. 
+
+Never thought a hard merge would be the most unsettling thing I would feel.
 
 <!--
 **miriamschaefer/miriamschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
