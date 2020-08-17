@@ -9,6 +9,9 @@ You can check some of my repositories [here] (https://github.com/miriamschaefer?
 
 If you want, you can 💌 [email] (mailto:msuarezmelian@gmail.com) me, visit my [Linkedin] (https://www.linkedin.com/in/msuarezmelian/) (hire me!) or check my [Instagram] (http://www.instagram.com/miriamschaefer). Oh, also I [tweet and retweet] (https://www.twitter.com/in/miriam_schaefer/) basically nonsense.
 
+[I'm an inline-style link](https://www.google.com)
+
+
 <!--
 **miriamschaefer/miriamschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
