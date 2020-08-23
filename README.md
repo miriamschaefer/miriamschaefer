@@ -8,5 +8,5 @@ I'm a photographer turned into a front-end developer, so I definitely have the e
 
 You can check some of my repositories [here](https://github.com/miriamschaefer?tab=repositories) and give me some feedback, most of them are work in progress, so you know, be nice and cut me some slack 👀
 
-I'm based in Madrid (Spain), so if you need anything and while I work on my [porfolio](https://miriamschaefer.github.io/porfolio/) you can 💌 [email](mailto:msuarezmelian@gmail.com) me, visit my [Linkedin](https://www.linkedin.com/in/msuarezmelian/) (hire me!) or check my [Instagram](http://www.instagram.com/miriamschaefer). Oh, also I [tweet and retweet](https://www.twitter.com/in/miriam_schaefer/) basically nonsense.
+I'm based in Madrid (Spain), so if you need anything and while I work on my [porfolio](https://miriamschaefer.github.io/porfolio/), you can 💌 [email](mailto:msuarezmelian@gmail.com) me, visit my [Linkedin](https://www.linkedin.com/in/msuarezmelian/) (hire me!) or check my [Instagram](http://www.instagram.com/miriamschaefer). Oh, also I [tweet and retweet](https://www.twitter.com/in/miriam_schaefer/) basically nonsense.
 
